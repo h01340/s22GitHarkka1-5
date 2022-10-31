@@ -4,8 +4,14 @@ Otto: juupase juu
 Rane: kyllä näin on
 Eli ei tämän kummempaa proosaa, kunhan vain jokainen päivittelee yhtäaikaa tätä tiedostoa.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Tiina: uuup
 =======
 Alfred: ok
 >>>>>>> c527c4f4a0f94b18ed105fb1db1630a8959b2c34
+=======
+Alfred: ok
+Alfred: 2
+Lauri: moi
+>>>>>>> a29946aa9acf5e698dd17ff5b62939fc29bf2f9d
